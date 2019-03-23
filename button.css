@@ -1,0 +1,19 @@
+<style>button {
+	background-color:#5b6357;
+	border:1px solid #050504;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+button:hover {
+	background-color:#5dab30;
+}
+button:active {
+	position:relative;
+	top:1px;
+}</style>
